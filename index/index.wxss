@@ -1,0 +1,17 @@
+@import "../lib/weui.wxss";
+
+.weui-cells{
+  margin-top: 80rpx;
+  text-align: left;
+}
+.weui-label{
+  width: 5em;
+}
+
+.page-body-button {
+  margin-bottom: 30rpx;
+}
+.page-video {
+  width: 100vw;
+  height: 100vh;
+}
